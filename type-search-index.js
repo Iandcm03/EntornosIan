@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"LOTR","l":"Personaje"},{"p":"LOTR","l":"PersonajeMain"}];updateSearchResults();
