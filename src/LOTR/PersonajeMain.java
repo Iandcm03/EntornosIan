@@ -9,9 +9,9 @@ package LOTR;
 public class PersonajeMain {
     public static void main(String[] args) {
 
-        Personaje p1 = new Personaje("Legolas", "Elfo", "Arquero");
-        Personaje p2 = new Personaje("Gimli", "Enano", "Guerrero");
-        Personaje p3 = new Personaje("Aragorn", "Hombre", "Duelista");
+        Personaje p1 = new Personaje("Legolas", "Elfo", "Arquero",3000);
+        Personaje p2 = new Personaje("Gimli", "Enano", "Guerrero",130);
+        Personaje p3 = new Personaje("Aragorn", "Hombre", "Duelista",90);
 
         p1.mostrarDatos();
         p2.mostrarDatos();

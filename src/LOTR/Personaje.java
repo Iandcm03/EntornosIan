@@ -12,6 +12,7 @@ public class Personaje {
     String nombre;
     String raza;
     String clase;
+    int edad;
 
     /**
      * Constructor de PersonajeLOTR.
@@ -19,10 +20,11 @@ public class Personaje {
      * @param raza Raza del personaje.
      * @param clase Tipo de clase del personaje.
      */
-    public Personaje(String nombre, String raza, String clase) {
+    public Personaje(String nombre, String raza, String clase,int edad) {
         this.nombre = nombre;
         this.raza = raza;
         this.clase = clase;
+        this.edad=edad;
     }
 
 
